@@ -1,2 +1,2 @@
 # CS333
-The code I wrote for CS333, Programming Languages (C, C++, JavaScripts)
+The code I wrote for CS333, Programming Languages (C, C++, JavaScript)
