@@ -13,7 +13,7 @@ int main(int arg, char * argv[]) {
     //Task 1
     char c = 0XB4;
     short int s = 0XF034;
-    int i = 0X96FB;
+    int a = 0X96FB;
     long int l = 0XD745A;
     float f = 0XBC;
     double d = 0XE8;
@@ -34,7 +34,28 @@ int main(int arg, char * argv[]) {
     }
 
     //for int
+    ptr =(unsigned char*)&a;
+    for (int i = 0; i < sizeof(short int); i++){
+        printf("%d: %02X\n", i, ptr[i] );
+    }
 
+    //for lont int
+    ptr =(unsigned char*)&l;
+    for (int i = 0; i < sizeof(short int); i++){
+        printf("%d: %02X\n", i, ptr[i] );
+    }
+
+    //for float
+    ptr =(unsigned char*)&f;
+    for (int i = 0; i < sizeof(short int); i++){
+        printf("%d: %02X\n", i, ptr[i] );
+    }
+
+    //for double
+    ptr =(unsigned char*)&d;
+    for (int i = 0; i < sizeof(short int); i++){
+        printf("%d: %02X\n", i, ptr[i] );
+    }
 
 
     
