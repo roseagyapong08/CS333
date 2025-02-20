@@ -1,5 +1,5 @@
 /** 
- * A short description of the program
+ * This  program declares a variable of each of the basic types and determine whether my machine is big- or little-endian.
  *
  * Your Name: Rose Frimpomaa Agyapong 
  * Date: 9th February, 2025

@@ -1,4 +1,9 @@
-
+/** 
+ * The program that repeatedly allocates a small amount of memory in a loop that goes on for a long time
+ *
+ * Your Name: Rose Frimpomaa Agyapong 
+ * Date: 9th February, 2025
+*/
 
 
 #include <stdio.h>

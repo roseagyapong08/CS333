@@ -1,6 +1,7 @@
 /** 
  * A short description of the program
- *
+ * This rogram displays the contents of the stack memory by accessing memory addresses through a pointer 
+ * and printing the hexadecimal values of the first 100 bytes.
  * Your Name: Rose Frimpomaa Agyapong 
  * Date: 9th February, 2025
 */
