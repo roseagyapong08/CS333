@@ -1,0 +1,5 @@
+/Users/roseagyapong/CS Projects/CS333/Project3_rfagya27/Task1App/obj/Debug/net9.0/Task1App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/roseagyapong/CS Projects/CS333/Project3_rfagya27/Task1App/obj/Debug/net9.0/Task1App.AssemblyInfoInputs.cache
+/Users/roseagyapong/CS Projects/CS333/Project3_rfagya27/Task1App/obj/Debug/net9.0/Task1App.AssemblyInfo.cs
+/Users/roseagyapong/CS Projects/CS333/Project3_rfagya27/Task1App/obj/Debug/net9.0/Task1App.csproj.CoreCompileInputs.cache
+/Users/roseagyapong/CS Projects/CS333/Project3_rfagya27/Task1App/obj/Debug/net9.0/Task1App.sourcelink.json

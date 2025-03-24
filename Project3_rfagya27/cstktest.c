@@ -189,13 +189,14 @@ int main(int argc, char **argv) {
     printf("Now you should see the numbers from 0 to 9: \n");
     stk_display(stack, 1);
 
-    /**
-     * What follows is a test to visually confirm whether stk_destroy
-     * is correctly implemented. After uncommenting the lines below,
-     * open your task manager (Windows) or Activity Monitor (Mac) and observe
-     * that your memory usage doesn't increase while the program runs.
-     */
+    // /**
+    //  * What follows is a test to visually confirm whether stk_destroy
+    //  * is correctly implemented. After uncommenting the lines below,
+    //  * open your task manager (Windows) or Activity Monitor (Mac) and observe
+    //  * that your memory usage doesn't increase while the program runs.
+    //  */
     // while(1)
+    
     // {
     // 	Stack* stack = stk_create(10);
     // 	for(int i = 0; i < 10; i++) stk_push(stack, i);
